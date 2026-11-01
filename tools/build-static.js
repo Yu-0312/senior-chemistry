@@ -446,7 +446,7 @@ ${sections}`;
      1. SITE_URL 環境變數 —— 接自訂網域時只要在建置環境設一個變數，不必改程式
      2. js/site-config.js 裡的 siteUrl —— 本機建置與其他環境的預設值
 
-   目前只推送 GitHub、尚未部署，因此 siteUrl 是 GitHub Pages 的預留網址。
+   目前站台上線於 GitHub Pages，因此 siteUrl 就是實際網址。
    之後若改用其他靜態主機，只要設定 SITE_URL 即可，不需要改程式。
    --------------------------------------------------------------------------- */
 function resolveSiteUrl(site) {

@@ -79,7 +79,7 @@ node tools/tests/run-all.js
 
 ## 部署狀態
 
-目前**只推送 GitHub、尚未部署**。若之後要上線，可開啟 GitHub Pages（來源：`main` 分支根目錄），並把 `js/site-config.js` 的 `siteUrl` 或建置時的 `SITE_URL` 環境變數設為實際網址。專案不需要 Vercel。
+已上線 GitHub Pages：<https://yu-0312.github.io/senior-chemistry/>（來源：`main` 分支根目錄）。`js/site-config.js` 的 `siteUrl` 就是這個網址，推上 `main` 後會自動重建。專案不使用 Vercel。
 
 ## 授權
 

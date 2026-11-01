@@ -11,7 +11,7 @@
     /*
      * 專案網址，供 sitemap 與 canonical 使用。
      *
-     * 目前只推送 GitHub、尚未部署；若之後開啟 GitHub Pages，這個網址即可直接使用。
+     * 目前網站上線於 GitHub Pages，這個網址就是實際網址。
      * tools/build-static.js 仍會優先採用 SITE_URL 環境變數，換網域時不必改這一行。
      *
      * 結尾的斜線要保留：canonical 是直接字串相接的。
